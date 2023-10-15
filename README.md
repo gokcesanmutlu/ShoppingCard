@@ -12,7 +12,7 @@
        the chart button will be inactive.
 
      - When you add the product to the cart, 
-       the page will give you the amount of the product.
+       the cart will give you the price of the product.
 
      - When you add more than one product, 
        it will give you the total shopping amount.
